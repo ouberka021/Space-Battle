@@ -100,7 +100,7 @@ const lockAndLoad = () => {
     }
   }
 }
-// Battle
+// Battle Function=Set up a function that "Holds" the battle
 const engage = () => {
   defender.attack();
   invader.attack();
